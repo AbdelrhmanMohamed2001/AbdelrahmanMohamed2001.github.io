@@ -8,15 +8,6 @@
 
 <h3>Reach me:</h3>
 
-<a href="mailto:abdoelrahmanmohamed2001@gmail.com" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" alt="Email" width="80">
-</a>
-
-<a href="tel:01128655004" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/phone.png" alt="Phone" width="80">
-</a>
-
-
 <a href="https://www.linkedin.com/in/abdelrahman-mohamed-21229a247" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="70" style="margin-right: 10px;">
 </a>
